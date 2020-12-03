@@ -60,11 +60,11 @@ Unsure of where to begin contributing to TypeDoc? You can start by looking throu
 For instructions on setting up your environment, see the [setup](#setup---git-github-and-node) instructions in this document.
 Once set up, you may find the [development](https://typedoc.org/guides/development/) page useful for an overview of TypeDoc's architecture.
 
-If you have started work on an issue and get stuck or want a second opinion on your implementation feel free to reach out through [Gitter].
+Feel free to reach us at [Gitter] if you are stuck on an issue and need a second opinion. 
 
 ## Setup - Git, GitHub, and Node
 
-If you don't already have [Git] installed, install it first. You will need it to contribute to TypeDoc. You will also need to install [Node]. TypeDoc requires at least npm 4, so if you are running Node 7.3.0 or older you will need to upgrade npm using `npm install --global npm@^4`.
+Download and install [Git] to contribute to TypeDoc. You will also need to install [Node]. TypeDoc requires at least npm 4, so if you are running Node 7.3.0 or older you will need to upgrade npm using `npm install --global npm@^4`.
 
 #### Installation
 
